@@ -1,0 +1,36 @@
+ *DevOps is a culture that allows Development and Operations team to work together
+*Developers continuously develop and test codes
+*There is continuous integration taking place through out the lifecycle
+*Operation team continuously deploy the code to the production environment
+*Allows better collaboration,increased trust and faster software releases
+
+
+
+
+GIT:
+    Git is a Version Control System for tracking changes in computer files.
+    It is generally used for source code management in software development.
+    1.Git is used to track changes in the source code. 
+    2.Distributed version control tool used for source code management
+    3.Allows multipe developers to work together
+    4.Supports non-linear development because of its thousands of parallel branches
+Features of Git:
+    1.Tracking History
+    2.Free and Open Source
+3.Support Non-linear development
+4.creates backup
+5.scalable
+6.supports collaboration
+7.branching is easier
+8.distributed development
+
+
+
+
+
+
+
+
+
+
+
